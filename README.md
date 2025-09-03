@@ -12,9 +12,13 @@ Inventory Master is a lightweight inventory tracking and ordering application th
 
 ## Project structure
 api: Serverless API routes
+
 lib: Shared utilities (e.g., MongoDB client)
+
 public: Static HTML, JS, and assets
+
 .vercel: Vercel deployment configuration
+
 package.json
 
 ## Environment variables
