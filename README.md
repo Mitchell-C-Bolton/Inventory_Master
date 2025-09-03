@@ -1,4 +1,5 @@
 Inventory Master
+
 Inventory Master is a lightweight inventory tracking and ordering application that uses QR codes to streamline restocking. Built with Node.js, MongoDB, and Vercel serverless functions, it ships with a responsive HTML/Bootstrap interface for desktop and mobile devices.
 
 Features
