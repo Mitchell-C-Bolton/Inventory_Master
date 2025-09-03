@@ -11,15 +11,10 @@ Inventory Master is a lightweight inventory tracking and ordering application th
 - **Mobile ordering** – A phone-friendly page lets staff scan a product’s QR code, review its info, and submit an order on the spot
 
 ## Project structure
-
-api/                    # Serverless API routes
-
-lib/                    # Shared utilities (e.g., MongoDB client)
-
-public/                 # Static HTML, JS, and assets
-
-.vercel/                # Vercel deployment configuration
-
+api: Serverless API routes
+lib: Shared utilities (e.g., MongoDB client)
+public: Static HTML, JS, and assets
+.vercel: Vercel deployment configuration
 package.json
 
 ## Environment variables
